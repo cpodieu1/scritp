@@ -1,1 +1,3 @@
-# scritp
+# maven-project
+
+Simple Maven Project
